@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome to Git and Jenkins Integration Project2</h1>
+<h1>Welcome to Git and Jenkins Integration Project</h1>
 <h2>Hello Vivek!</h2>
 <h2>Hello World!</h2>
 </body>
